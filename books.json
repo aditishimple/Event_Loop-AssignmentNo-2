@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "book_name" : "Kane and Abel",
+        "author" : "Jeffrey Archer"
+    },
+    {
+        "id" : 2,
+        "book_name" : "Eragon Series",
+        "author" : "Christopher Paolini"
+    },
+    {
+        "id" : 3,
+        "book_name" : "Harry Potter Series",
+        "author" : "J.K. Rowling"
+    },
+    {
+        "id" : 4,
+        "book_name" : "Lord of the Rings",
+        "author" : "J. R. R. Tolkien"
+    }    
+]
